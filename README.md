@@ -8,8 +8,8 @@ Just run `Cargo Run` and have fun.
 
 ## Controls
 
-*Arrows*: move the ship;
-*Space bar*: shoot;
-*ESC*: quit the game;
+- Arrows: move the ship;
+- Space bar: shoot;
+- ESC: quit the game;
 
 Be quick! They are coming...
